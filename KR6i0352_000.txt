@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 深密解脫經
+#+DATE: 2015-08-30 20:17:03.045534
+#+PROPERTY: JUAN 0
